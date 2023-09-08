@@ -8,7 +8,7 @@ I started by looking for references and creating a layout of the map seen from a
 
 Once I got to a good starting point I started with a rough blockout, with just the large shapes and no details, to better understand the feel and dimensions.
 
-![FP](/BP_HighresScreenshot00076.png)
+![FP](/HighresScreenshot00076.png)
 
 There are many differences between the layout and the blockout:
 
